@@ -114,11 +114,27 @@ innovation.
 Python has been a good friend.  The community focussing on the common
 problems people face and helping build bridges.
 
+Bridges
+-------
+
 New ideas emerge and if the stand the test of a little time, python
 evolves to embrace those ideas.
 
 async and await in python 3 open up many new possibilities.  Or
 rather, allow others to adapt older solutions to the new paradigm.
+
+Much of IT is about connecting two things, building a bridge between
+the two worlds.
+
+There are bridges everywhere.  Low level, between two very specific
+systems, higher level interfaces for querying.  Ways to display data.
+
+Ways to collect data.
+
+The free software communities allow you to look around, see where
+things are heading, find others thinking about the same problems.
+
+And find stronger bridges, bridges that connect more pieces.
 
 Time
 ----
