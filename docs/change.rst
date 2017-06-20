@@ -2,6 +2,14 @@
  Change
 ========
 
+
+::
+   
+   I'm still asking you to believe - not in my ability to bring about
+   change, but in yours. I believe in change because I believe in you.
+
+   Barack Obama
+
 The world is in a period of rapid change.
 
 It has been for some time, the last 250 years started with the
