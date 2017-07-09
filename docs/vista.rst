@@ -42,3 +42,25 @@ Change
 
 Bridges
 =======
+
+
+Horizon
+=======
+
+Daily update models, exposure, data in general.
+
+Run all the models.
+
+Explore the time series.
+
+Fit markov models to these series.
+
+Feed back into the model updates.
+
+Extract signal from noise.
+
+Increase the information flow.
+
+Explore shared interests.
+
+Build bridges.
